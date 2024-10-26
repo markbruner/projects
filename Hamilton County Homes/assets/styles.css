@@ -2,7 +2,7 @@
 
 /* Custom button background, font, and outline color */
 .custom-dropdown .btn {
-    background-color: #c9c7c762 !important;  /* Set the button background color (e.g., blue) */
+    background-color: hsla(0, 0%, 100%, 0) !important;  /* Set the button background color (e.g., blue) */
     font-weight: 700;
     color: #3a3838 !important;  /* Set the font color (e.g., white) */
     outline: none; /* Remove default outline */
